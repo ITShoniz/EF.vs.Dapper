@@ -1,0 +1,14 @@
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\bin\Release\EntityFreamwork6Repository.dll.config
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\bin\Release\EntityFreamwork6Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\bin\Release\EntityFreamwork6Repository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\bin\Release\EntityFramework.dll
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\bin\Release\Framework.Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\bin\Release\Framework.Repository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\bin\Release\EntityFramework.xml
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\obj\Release\EntityFramework6Repository.csprojAssemblyReference.cache
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\obj\Release\EntityFramework6Repository.csproj.CoreCompileInputs.cache
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\obj\Release\EntityFramework6Repository.csproj.CopyComplete
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\obj\Release\EntityFreamwork6Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\EntityFreamwork6Repository\obj\Release\EntityFreamwork6Repository.pdb

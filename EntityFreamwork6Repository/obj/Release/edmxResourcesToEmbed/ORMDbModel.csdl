@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WideWorldImportersModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="Int32" Nullable="false" />
+    <Property Name="CustomerName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BillToCustomerID" Type="Int32" Nullable="false" />
+    <Property Name="CustomerCategoryID" Type="Int32" Nullable="false" />
+    <Property Name="BuyingGroupID" Type="Int32" />
+    <Property Name="PrimaryContactPersonID" Type="Int32" Nullable="false" />
+    <Property Name="AlternateContactPersonID" Type="Int32" />
+    <Property Name="DeliveryMethodID" Type="Int32" Nullable="false" />
+    <Property Name="DeliveryCityID" Type="Int32" Nullable="false" />
+    <Property Name="PostalCityID" Type="Int32" Nullable="false" />
+    <Property Name="CreditLimit" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="AccountOpenedDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="StandardDiscountPercentage" Type="Decimal" Precision="18" Scale="3" Nullable="false" />
+    <Property Name="IsStatementSent" Type="Boolean" Nullable="false" />
+    <Property Name="IsOnCreditHold" Type="Boolean" Nullable="false" />
+    <Property Name="PaymentDays" Type="Int32" Nullable="false" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="FaxNumber" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DeliveryRun" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="RunPosition" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="WebsiteURL" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DeliveryAddressLine1" Type="String" MaxLength="60" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DeliveryAddressLine2" Type="String" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Name="DeliveryPostalCode" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DeliveryLocation" Type="Geography" />
+    <Property Name="PostalAddressLine1" Type="String" MaxLength="60" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PostalAddressLine2" Type="String" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Name="PostalPostalCode" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastEditedBy" Type="Int32" Nullable="false" />
+    <Property Name="ValidFrom" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="ValidTo" Type="DateTime" Nullable="false" Precision="7" />
+    <NavigationProperty Name="Customers1" Relationship="Self.FK_Sales_Customers_BillToCustomerID_Sales_Customers" FromRole="Customers" ToRole="Customers1" />
+    <NavigationProperty Name="Customer1" Relationship="Self.FK_Sales_Customers_BillToCustomerID_Sales_Customers" FromRole="Customers1" ToRole="Customers" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Sales_Orders_CustomerID_Sales_Customers" FromRole="Customers" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="Int32" Nullable="false" />
+    <Property Name="CustomerID" Type="Int32" Nullable="false" />
+    <Property Name="SalespersonPersonID" Type="Int32" Nullable="false" />
+    <Property Name="PickedByPersonID" Type="Int32" />
+    <Property Name="ContactPersonID" Type="Int32" Nullable="false" />
+    <Property Name="BackorderOrderID" Type="Int32" />
+    <Property Name="OrderDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ExpectedDeliveryDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="CustomerPurchaseOrderNumber" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="IsUndersupplyBackordered" Type="Boolean" Nullable="false" />
+    <Property Name="Comments" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DeliveryInstructions" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="InternalComments" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PickingCompletedWhen" Type="DateTime" Precision="7" />
+    <Property Name="LastEditedBy" Type="Int32" Nullable="false" />
+    <Property Name="LastEditedWhen" Type="DateTime" Nullable="false" Precision="7" />
+    <NavigationProperty Name="Customer" Relationship="Self.FK_Sales_Orders_CustomerID_Sales_Customers" FromRole="Orders" ToRole="Customers" />
+    <NavigationProperty Name="Orders1" Relationship="Self.FK_Sales_Orders_BackorderOrderID_Sales_Orders" FromRole="Orders" ToRole="Orders1" />
+    <NavigationProperty Name="Order1" Relationship="Self.FK_Sales_Orders_BackorderOrderID_Sales_Orders" FromRole="Orders1" ToRole="Orders" />
+  </EntityType>
+  <Association Name="FK_Sales_Customers_BillToCustomerID_Sales_Customers">
+    <End Role="Customers" Type="Self.Customer" Multiplicity="1" />
+    <End Role="Customers1" Type="Self.Customer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Customers1">
+        <PropertyRef Name="BillToCustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sales_Orders_CustomerID_Sales_Customers">
+    <End Role="Customers" Type="Self.Customer" Multiplicity="1" />
+    <End Role="Orders" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sales_Orders_BackorderOrderID_Sales_Orders">
+    <End Role="Orders" Type="Self.Order" Multiplicity="0..1" />
+    <End Role="Orders1" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="Orders1">
+        <PropertyRef Name="BackorderOrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WideWorldImportersEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="Self.Customer" />
+    <EntitySet Name="Orders" EntityType="Self.Order" />
+    <AssociationSet Name="FK_Sales_Customers_BillToCustomerID_Sales_Customers" Association="Self.FK_Sales_Customers_BillToCustomerID_Sales_Customers">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Customers1" EntitySet="Customers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sales_Orders_CustomerID_Sales_Customers" Association="Self.FK_Sales_Orders_CustomerID_Sales_Customers">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sales_Orders_BackorderOrderID_Sales_Orders" Association="Self.FK_Sales_Orders_BackorderOrderID_Sales_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="Orders1" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

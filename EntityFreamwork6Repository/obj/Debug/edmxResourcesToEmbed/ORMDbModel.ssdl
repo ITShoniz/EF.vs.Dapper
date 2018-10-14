@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WideWorldImportersModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="BillToCustomerID" Type="int" Nullable="false" />
+    <Property Name="CustomerCategoryID" Type="int" Nullable="false" />
+    <Property Name="BuyingGroupID" Type="int" />
+    <Property Name="PrimaryContactPersonID" Type="int" Nullable="false" />
+    <Property Name="AlternateContactPersonID" Type="int" />
+    <Property Name="DeliveryMethodID" Type="int" Nullable="false" />
+    <Property Name="DeliveryCityID" Type="int" Nullable="false" />
+    <Property Name="PostalCityID" Type="int" Nullable="false" />
+    <Property Name="CreditLimit" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="AccountOpenedDate" Type="date" Nullable="false" />
+    <Property Name="StandardDiscountPercentage" Type="decimal" Precision="18" Scale="3" Nullable="false" />
+    <Property Name="IsStatementSent" Type="bit" Nullable="false" />
+    <Property Name="IsOnCreditHold" Type="bit" Nullable="false" />
+    <Property Name="PaymentDays" Type="int" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="FaxNumber" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="DeliveryRun" Type="nvarchar" MaxLength="5" />
+    <Property Name="RunPosition" Type="nvarchar" MaxLength="5" />
+    <Property Name="WebsiteURL" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="DeliveryAddressLine1" Type="nvarchar" MaxLength="60" Nullable="false" />
+    <Property Name="DeliveryAddressLine2" Type="nvarchar" MaxLength="60" />
+    <Property Name="DeliveryPostalCode" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="DeliveryLocation" Type="geography" />
+    <Property Name="PostalAddressLine1" Type="nvarchar" MaxLength="60" Nullable="false" />
+    <Property Name="PostalAddressLine2" Type="nvarchar" MaxLength="60" />
+    <Property Name="PostalPostalCode" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="LastEditedBy" Type="int" Nullable="false" />
+    <Property Name="ValidFrom" Type="datetime2" Precision="7" Nullable="false" />
+    <Property Name="ValidTo" Type="datetime2" Precision="7" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="int" Nullable="false" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="SalespersonPersonID" Type="int" Nullable="false" />
+    <Property Name="PickedByPersonID" Type="int" />
+    <Property Name="ContactPersonID" Type="int" Nullable="false" />
+    <Property Name="BackorderOrderID" Type="int" />
+    <Property Name="OrderDate" Type="date" Nullable="false" />
+    <Property Name="ExpectedDeliveryDate" Type="date" Nullable="false" />
+    <Property Name="CustomerPurchaseOrderNumber" Type="nvarchar" MaxLength="20" />
+    <Property Name="IsUndersupplyBackordered" Type="bit" Nullable="false" />
+    <Property Name="Comments" Type="nvarchar(max)" />
+    <Property Name="DeliveryInstructions" Type="nvarchar(max)" />
+    <Property Name="InternalComments" Type="nvarchar(max)" />
+    <Property Name="PickingCompletedWhen" Type="datetime2" Precision="7" />
+    <Property Name="LastEditedBy" Type="int" Nullable="false" />
+    <Property Name="LastEditedWhen" Type="datetime2" Precision="7" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Sales_Customers_BillToCustomerID_Sales_Customers">
+    <End Role="Customers" Type="Self.Customers" Multiplicity="1" />
+    <End Role="Customers1" Type="Self.Customers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Customers1">
+        <PropertyRef Name="BillToCustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sales_Orders_BackorderOrderID_Sales_Orders">
+    <End Role="Orders" Type="Self.Orders" Multiplicity="0..1" />
+    <End Role="Orders1" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="Orders1">
+        <PropertyRef Name="BackorderOrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sales_Orders_CustomerID_Sales_Customers">
+    <End Role="Customers" Type="Self.Customers" Multiplicity="1" />
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WideWorldImportersModelStoreContainer">
+    <EntitySet Name="Customers" EntityType="Self.Customers" Schema="Sales" store:Type="Tables" />
+    <EntitySet Name="Orders" EntityType="Self.Orders" Schema="Sales" store:Type="Tables" />
+    <AssociationSet Name="FK_Sales_Customers_BillToCustomerID_Sales_Customers" Association="Self.FK_Sales_Customers_BillToCustomerID_Sales_Customers">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Customers1" EntitySet="Customers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sales_Orders_BackorderOrderID_Sales_Orders" Association="Self.FK_Sales_Orders_BackorderOrderID_Sales_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="Orders1" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sales_Orders_CustomerID_Sales_Customers" Association="Self.FK_Sales_Orders_CustomerID_Sales_Customers">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
