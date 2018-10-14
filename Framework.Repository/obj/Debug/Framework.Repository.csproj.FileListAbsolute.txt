@@ -1,0 +1,6 @@
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\obj\Debug\Framework.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\bin\Debug\Framework.Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\bin\Debug\Framework.Repository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\obj\Debug\Framework.Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\obj\Debug\Framework.Repository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\obj\Debug\Framework.Repository.csprojAssemblyReference.cache

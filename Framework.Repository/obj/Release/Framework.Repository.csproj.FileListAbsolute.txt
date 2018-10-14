@@ -1,0 +1,5 @@
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\bin\Release\Framework.Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\bin\Release\Framework.Repository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\obj\Release\Framework.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\obj\Release\Framework.Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\Framework.Repository\obj\Release\Framework.Repository.pdb
