@@ -1,0 +1,403 @@
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ORMS.exe.config
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ORMS.exe
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ORMS.pdb
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\Dapper.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Data.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Mvvm.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Charts.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Core.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Printing.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\EntityFramework.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\Shoniz.Common.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\Shoniz.Common.Data.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.CodeParser.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Ribbon.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.DocumentViewer.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Docking.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Layout.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Office.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\Dapper.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Data.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Mvvm.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Charts.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Core.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Printing.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\EntityFramework.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Ribbon.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.DocumentViewer.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Docking.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Layout.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\DevExpress.Office.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\MainWindow.g.cs
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\App.g.cs
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\ORMS_Content.g.cs
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\ORMS_MarkupCompile.cache
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\ORMS_MarkupCompile.lref
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\MainWindow.baml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\ORMS.g.resources
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\ORMS.Properties.Resources.resources
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\ORMS.csproj.GenerateResource.Cache
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\ORMS.exe.licenses
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\ORMS.csproj.CoreCompileInputs.cache
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\ORMS.exe
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Release\ORMS.pdb
+D:\Projects\ORMS\ORMS\bin\Release\ORMS.exe.config
+D:\Projects\ORMS\ORMS\bin\Release\ORMS.exe
+D:\Projects\ORMS\ORMS\bin\Release\ORMS.pdb
+D:\Projects\ORMS\ORMS\bin\Release\Dapper.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Charts.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Data.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Mvvm.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Printing.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Charts.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Core.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Printing.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Release\EntityFramework.dll
+D:\Projects\ORMS\ORMS\bin\Release\EntityFramework.SqlServer.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Pdf.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.CodeParser.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Ribbon.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.DocumentViewer.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Docking.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.RichEdit.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Layout.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Office.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Release\Dapper.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Data.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Mvvm.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Printing.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Charts.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Core.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Printing.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Release\EntityFramework.xml
+D:\Projects\ORMS\ORMS\bin\Release\EntityFramework.SqlServer.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Pdf.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Ribbon.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.DocumentViewer.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Docking.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.RichEdit.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Xpf.Layout.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Release\DevExpress.Office.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Data.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Data.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Data.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Data.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Release\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\obj\Release\MainWindow.g.cs
+D:\Projects\ORMS\ORMS\obj\Release\App.g.cs
+D:\Projects\ORMS\ORMS\obj\Release\ORMS_Content.g.cs
+D:\Projects\ORMS\ORMS\obj\Release\ORMS_MarkupCompile.cache
+D:\Projects\ORMS\ORMS\obj\Release\ORMS_MarkupCompile.lref
+D:\Projects\ORMS\ORMS\obj\Release\MainWindow.baml
+D:\Projects\ORMS\ORMS\obj\Release\ORMS.g.resources
+D:\Projects\ORMS\ORMS\obj\Release\ORMS.Properties.Resources.resources
+D:\Projects\ORMS\ORMS\obj\Release\ORMS.csproj.GenerateResource.Cache
+D:\Projects\ORMS\ORMS\obj\Release\ORMS.exe.licenses
+D:\Projects\ORMS\ORMS\obj\Release\ORMS.csproj.CoreCompileInputs.cache
+D:\Projects\ORMS\ORMS\obj\Release\ORMS.exe
+D:\Projects\ORMS\ORMS\obj\Release\ORMS.pdb
+D:\Projects\ORMS\ORMS\obj\Release\ORMS.csprojResolveAssemblyReference.cache
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ORMS.exe.config
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ORMS.exe
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ORMS.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Data.Common.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Globalization.Extensions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.IO.Compression.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Net.Http.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Net.Sockets.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Security.SecureString.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Threading.Overlapped.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Dapper.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DapperRepository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Data.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Mvvm.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Office.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Charts.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.CodeView.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Core.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Printing.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\EntityFramework.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\EntityFreamwork6Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\EntityFreamworkCore.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Framework.Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Remotion.Linq.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Buffers.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Collections.Immutable.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Data.SqlClient.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Interactive.Async.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Memory.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Images.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.CodeParser.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.DocumentViewer.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Ribbon.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Docking.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.LayoutControl.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Layout.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DapperRepository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\EntityFreamwork6Repository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\EntityFreamwork6Repository.dll.config
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\EntityFreamworkCore.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\EntityFreamworkCore.dll.config
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Framework.Repository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Dapper.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Data.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Mvvm.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Office.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Charts.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Core.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Printing.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\EntityFramework.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.EntityFrameworkCore.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Configuration.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\Remotion.Linq.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Buffers.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Collections.Immutable.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Interactive.Async.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Memory.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.DocumentViewer.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Ribbon.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Docking.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.LayoutControl.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Grid.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\DevExpress.Xpf.Layout.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Charts.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Charts.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Charts.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Charts.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Docking.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Docking.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Docking.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Docking.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Release\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS.csprojAssemblyReference.cache
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS.exe.config
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\MainWindow.g.cs
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\App.g.cs
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS_MarkupCompile.cache
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS_MarkupCompile.lref
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\MainWindow.baml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS.g.resources
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS.Properties.Resources.resources
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS.csproj.GenerateResource.cache
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS.exe.licenses
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS.csproj.CoreCompileInputs.cache
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS.csproj.CopyComplete
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS.exe
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Release\ORMS.pdb

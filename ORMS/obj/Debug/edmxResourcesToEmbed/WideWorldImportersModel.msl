@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WideWorldImportersModelStoreContainer" CdmEntityContainer="WideWorldImportersEntities1">
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="WideWorldImportersModel.Customer">
+        <MappingFragment StoreEntitySet="Customers">
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="BillToCustomerID" ColumnName="BillToCustomerID" />
+          <ScalarProperty Name="CustomerCategoryID" ColumnName="CustomerCategoryID" />
+          <ScalarProperty Name="BuyingGroupID" ColumnName="BuyingGroupID" />
+          <ScalarProperty Name="PrimaryContactPersonID" ColumnName="PrimaryContactPersonID" />
+          <ScalarProperty Name="AlternateContactPersonID" ColumnName="AlternateContactPersonID" />
+          <ScalarProperty Name="DeliveryMethodID" ColumnName="DeliveryMethodID" />
+          <ScalarProperty Name="DeliveryCityID" ColumnName="DeliveryCityID" />
+          <ScalarProperty Name="PostalCityID" ColumnName="PostalCityID" />
+          <ScalarProperty Name="CreditLimit" ColumnName="CreditLimit" />
+          <ScalarProperty Name="AccountOpenedDate" ColumnName="AccountOpenedDate" />
+          <ScalarProperty Name="StandardDiscountPercentage" ColumnName="StandardDiscountPercentage" />
+          <ScalarProperty Name="IsStatementSent" ColumnName="IsStatementSent" />
+          <ScalarProperty Name="IsOnCreditHold" ColumnName="IsOnCreditHold" />
+          <ScalarProperty Name="PaymentDays" ColumnName="PaymentDays" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="FaxNumber" ColumnName="FaxNumber" />
+          <ScalarProperty Name="DeliveryRun" ColumnName="DeliveryRun" />
+          <ScalarProperty Name="RunPosition" ColumnName="RunPosition" />
+          <ScalarProperty Name="WebsiteURL" ColumnName="WebsiteURL" />
+          <ScalarProperty Name="DeliveryAddressLine1" ColumnName="DeliveryAddressLine1" />
+          <ScalarProperty Name="DeliveryAddressLine2" ColumnName="DeliveryAddressLine2" />
+          <ScalarProperty Name="DeliveryPostalCode" ColumnName="DeliveryPostalCode" />
+          <ScalarProperty Name="DeliveryLocation" ColumnName="DeliveryLocation" />
+          <ScalarProperty Name="PostalAddressLine1" ColumnName="PostalAddressLine1" />
+          <ScalarProperty Name="PostalAddressLine2" ColumnName="PostalAddressLine2" />
+          <ScalarProperty Name="PostalPostalCode" ColumnName="PostalPostalCode" />
+          <ScalarProperty Name="LastEditedBy" ColumnName="LastEditedBy" />
+          <ScalarProperty Name="ValidFrom" ColumnName="ValidFrom" />
+          <ScalarProperty Name="ValidTo" ColumnName="ValidTo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="WideWorldImportersModel.Order">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="SalespersonPersonID" ColumnName="SalespersonPersonID" />
+          <ScalarProperty Name="PickedByPersonID" ColumnName="PickedByPersonID" />
+          <ScalarProperty Name="ContactPersonID" ColumnName="ContactPersonID" />
+          <ScalarProperty Name="BackorderOrderID" ColumnName="BackorderOrderID" />
+          <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+          <ScalarProperty Name="ExpectedDeliveryDate" ColumnName="ExpectedDeliveryDate" />
+          <ScalarProperty Name="CustomerPurchaseOrderNumber" ColumnName="CustomerPurchaseOrderNumber" />
+          <ScalarProperty Name="IsUndersupplyBackordered" ColumnName="IsUndersupplyBackordered" />
+          <ScalarProperty Name="Comments" ColumnName="Comments" />
+          <ScalarProperty Name="DeliveryInstructions" ColumnName="DeliveryInstructions" />
+          <ScalarProperty Name="InternalComments" ColumnName="InternalComments" />
+          <ScalarProperty Name="PickingCompletedWhen" ColumnName="PickingCompletedWhen" />
+          <ScalarProperty Name="LastEditedBy" ColumnName="LastEditedBy" />
+          <ScalarProperty Name="LastEditedWhen" ColumnName="LastEditedWhen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

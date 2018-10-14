@@ -1,0 +1,406 @@
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ORMS.exe.config
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ORMS.exe
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ORMS.pdb
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\Dapper.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Mvvm.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Charts.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Core.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Printing.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\EntityFramework.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Docking.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v17.1.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\Dapper.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Mvvm.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Charts.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Printing.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\EntityFramework.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Docking.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v17.1.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Charts.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Printing.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Docking.v17.1.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\MainWindow.g.cs
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\App.g.cs
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS_Content.g.cs
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS_MarkupCompile.cache
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS_MarkupCompile.lref
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\MainWindow.baml
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS.g.resources
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS.Properties.Resources.resources
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS.csproj.GenerateResource.Cache
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS.exe.licenses
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS.csproj.CoreCompileInputs.cache
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS.exe
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS.pdb
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\Shoniz.Common.Core.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\bin\Debug\Shoniz.Common.Data.dll
+C:\Users\Shahrooz\Documents\Visual Studio 2017\Projects\ORMS\ORMS\obj\Debug\ORMS.csprojResolveAssemblyReference.cache
+D:\Projects\ORMS\ORMS\bin\Debug\ORMS.exe.config
+D:\Projects\ORMS\ORMS\bin\Debug\ORMS.exe
+D:\Projects\ORMS\ORMS\bin\Debug\Dapper.dll
+D:\Projects\ORMS\ORMS\bin\Debug\EntityFramework.dll
+D:\Projects\ORMS\ORMS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\ORMS\ORMS\bin\Debug\Shoniz.Common.Core.dll
+D:\Projects\ORMS\ORMS\bin\Debug\Shoniz.Common.Data.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Docking.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Debug\Dapper.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Mvvm.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Charts.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Printing.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Debug\EntityFramework.xml
+D:\Projects\ORMS\ORMS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Docking.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v17.1.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS.csprojResolveAssemblyReference.cache
+D:\Projects\ORMS\ORMS\obj\Debug\MainWindow.g.cs
+D:\Projects\ORMS\ORMS\obj\Debug\App.g.cs
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS_Content.g.cs
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS_MarkupCompile.cache
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS_MarkupCompile.lref
+D:\Projects\ORMS\ORMS\obj\Debug\MainWindow.baml
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS.g.resources
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS.Properties.Resources.resources
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS.csproj.GenerateResource.Cache
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS.exe.licenses
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS.csproj.CoreCompileInputs.cache
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS.exe
+D:\Projects\ORMS\ORMS\obj\Debug\ORMS.pdb
+D:\Projects\ORMS\ORMS\bin\Debug\ORMS.pdb
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Mvvm.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Charts.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Core.v17.1.dll
+D:\Projects\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Printing.v17.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ORMS.exe.config
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ORMS.exe
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ORMS.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Dapper.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Mvvm.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Charts.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.CodeView.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Printing.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\EntityFramework.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Docking.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v18.1.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Dapper.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Mvvm.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Charts.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Printing.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\EntityFramework.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Docking.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v18.1.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Charts.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Charts.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Charts.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Charts.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Docking.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Docking.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Docking.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Docking.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\MainWindow.g.cs
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\App.g.cs
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS_MarkupCompile.cache
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS_MarkupCompile.lref
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\MainWindow.baml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS.g.resources
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS.Properties.Resources.resources
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS.csproj.GenerateResource.cache
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS.exe.licenses
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS.csproj.CoreCompileInputs.cache
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS.csproj.CopyComplete
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS.exe
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS.csprojAssemblyReference.cache
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DapperRepository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\EntityFreamwork6Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Framework.Repository.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\DapperRepository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\EntityFreamwork6Repository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\EntityFreamwork6Repository.dll.config
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Framework.Repository.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\EntityFreamworkCore.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Remotion.Linq.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Memory.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\EntityFreamworkCore.pdb
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\EntityFreamworkCore.dll.config
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Remotion.Linq.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Memory.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Data.Common.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.IO.Compression.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Net.Http.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Net.Sockets.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Security.SecureString.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Buffers.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Interactive.Async.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Buffers.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Interactive.Async.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shahrooz2\Desktop\ORMS\ORMS\obj\Debug\ORMS.exe.config
